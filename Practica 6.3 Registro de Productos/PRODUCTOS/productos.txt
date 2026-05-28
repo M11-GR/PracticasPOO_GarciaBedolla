@@ -1,0 +1,35 @@
+Laptop|Electrónica|15000|10
+Funda|Accesorios|1200|25
+Cable|Electrónica|500|8
+Mouse|Accesorios|600|40
+Silla Gamer|Muebles|4500|15
+Laptop|Electrónica|15000|10
+Funda|Accesorios|1200|25
+Cable|Electrónica|500|8
+Mouse|Accesorios|600|40
+Silla Gamer|Muebles|4500|15
+Laptop|Electrónica|15000|10
+Funda|Accesorios|1200|25
+Cable|Electrónica|500|8
+Mouse|Accesorios|600|40
+Silla Gamer|Muebles|4500|15
+Laptop|Electrónica|15000|10
+Funda|Accesorios|1200|25
+Cable|Electrónica|500|8
+Mouse|Accesorios|600|40
+Silla Gamer|Muebles|4500|15
+Laptop|Electrónica|15000|10
+Funda|Accesorios|1200|25
+Cable|Electrónica|500|8
+Mouse|Accesorios|600|40
+Silla Gamer|Muebles|4500|15
+Laptop|Electrónica|15000|10
+Funda|Accesorios|1200|25
+Cable|Electrónica|500|8
+Mouse|Accesorios|600|40
+Silla Gamer|Muebles|4500|15
+Laptop|Electrónica|15000|10
+Funda|Accesorios|1200|25
+Cable|Electrónica|500|8
+Mouse|Accesorios|600|40
+Silla Gamer|Muebles|4500|15
